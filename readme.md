@@ -1,5 +1,7 @@
 # Neural Network Simulation with Python
 
+That repository was created to pratice my notes from [my studies](https://heather-carpenter-e0c.notion.site/Deep-Learning-1c22c1671f2880028bd0ec5ae4c7a4fe) based on the video [MIT Introduction to Deep Learning | 6.S191](https://youtu.be/alfdI7S6wCY)
+
 ## Overview
 This project simulates how a **neuron** works in deep learning using Python. It provides a step-by-step implementation of fundamental neural network concepts, from basic mathematical operations to a simple **PyTorch-based Large Language Model (LLM)**.
 
