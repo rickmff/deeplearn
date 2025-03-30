@@ -116,14 +116,7 @@ python 06_neural_network_inference.py
 ## Next Steps (wip...)
 Once you understand these fundamental concepts, you can move to:
 
-[ ]- `07_simple_llm.py` – Creating a **transformer-based LLM**.
-[ ]- `08_train_llm.py` – Training an LLM with real text data.
-[ ]- `09_use_llm.py` – Using the LLM for text generation.
-[ ]- `10_deploy_llm.py` – Deploying the model as a **FastAPI API**.
-
-## Conclusion
-This project provides a structured **step-by-step guide** to understanding **neural networks** and **deep learning models**. By running these files sequentially, you'll gain hands-on experience with fundamental **machine learning concepts**.
-
----
-**Author:** Henrique Faria
-**License:** MIT
+- [ ]- `07_simple_llm.py` – Creating a **transformer-based LLM**.
+- [ ]- `08_train_llm.py` – Training an LLM with real text data.
+- [ ]- `09_use_llm.py` – Using the LLM for text generation.
+- [ ]- `10_deploy_llm.py` – Deploying the model as a **FastAPI API**.
